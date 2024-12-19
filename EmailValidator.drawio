@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Page-1" id="yAvOY6v_R_DVjkY3Rf0n">
-    <mxGraphModel dx="880" dy="1572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1035" dy="1655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,14 +13,41 @@
         <mxCell id="ksr5oNeSZPBKfkLmr4XX-2" value="DashBoard" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="365" y="-930" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="ksr5oNeSZPBKfkLmr4XX-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ksr5oNeSZPBKfkLmr4XX-10" target="ksr5oNeSZPBKfkLmr4XX-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ksr5oNeSZPBKfkLmr4XX-10" value="AddNew Compain" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="-830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ksr5oNeSZPBKfkLmr4XX-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ksr5oNeSZPBKfkLmr4XX-14" target="ksr5oNeSZPBKfkLmr4XX-28">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ksr5oNeSZPBKfkLmr4XX-14" value="Check History" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="-830" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ksr5oNeSZPBKfkLmr4XX-23" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="375" y="-880" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ksr5oNeSZPBKfkLmr4XX-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ksr5oNeSZPBKfkLmr4XX-28" target="ksr5oNeSZPBKfkLmr4XX-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ksr5oNeSZPBKfkLmr4XX-28" value="Compain Details" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="-830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ksr5oNeSZPBKfkLmr4XX-30" value="Compain Details(based on Specific Compain)" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="-700" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ksr5oNeSZPBKfkLmr4XX-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ksr5oNeSZPBKfkLmr4XX-32" target="ksr5oNeSZPBKfkLmr4XX-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ksr5oNeSZPBKfkLmr4XX-32" value="Upload CSV File Only" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="-830" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ksr5oNeSZPBKfkLmr4XX-34" value="Map the data" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="-690" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ksr5oNeSZPBKfkLmr4XX-36" value="Check Email Header&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.loud_callout" vertex="1" parent="1">
+          <mxGeometry x="770" y="-920" width="150" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
